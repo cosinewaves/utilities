@@ -4,7 +4,7 @@
 	Date: 16/12/24
 	Author: cosinewaves
 	
-	Description: Wrapper for CatalogEditorService.SearchCatalog()
+	Description: Wrapper for CatalogEditorService.SearchCatalog(), assists in getting catalog items directly without hassle.
 	Documentation: https://developer.roblox.com/en-us/api-reference/function/CatalogEditorService/SearchCatalog
 
 ]]
