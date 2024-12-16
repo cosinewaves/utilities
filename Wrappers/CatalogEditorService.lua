@@ -1,6 +1,6 @@
 --[[
 
-	Name: CatalogEditorService_Wrapper.lua
+	Name: CatalogEditorService.lua
 	Date: 16/12/24
 	Author: cosinewaves
 	
