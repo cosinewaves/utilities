@@ -5,8 +5,8 @@
 	Author: cosinewaves
 	
 	Description: Psuedorandom number generated table key picker from rarity table values
-  Example: 
-      local myRarities: {[string]: number} = {
+ 	 Example: 
+    			local myRarities: {[string]: number} = {
 				Basic = 1,
 				Rare = 2,
 				Epic = 3,
